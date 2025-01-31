@@ -1,2 +1,1 @@
-# Flight Booking System
- 
+The Flight Booking System is a Java-based desktop application designed to provide a seamless, efficient, and secure platform for users to search, book, and manage airline tickets. Built with a user-friendly graphical interface and a robust backend, this system ensures smooth performance, high scalability, and secure transactions. With its intuitive design, the application enhances the booking experience, offering features such as real-time flight search, ticket reservations, cancellations, and customer management.
